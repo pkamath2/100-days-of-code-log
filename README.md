@@ -16,3 +16,11 @@
 **Today's progress:**  Laid my paintings out in a flexible layout. Added titles and content.
 
 **Link to work:**  http://pkamath2.github.io/index.html
+
+
+### Day3: 28th June 2017
+**Thoughts:** Good link for modal images - https://www.w3schools.com/howto/howto_css_modal_images.asp 
+
+**Today's progress:**  Opened images on click in a modal window. Need to include javascript and separate out the html markup. 
+
+**Link to work:**  http://pkamath2.github.io/index.html
