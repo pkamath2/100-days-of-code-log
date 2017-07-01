@@ -24,3 +24,11 @@
 **Today's progress:**  Opened images on click in a modal window. Need to include javascript and separate out the html markup. 
 
 **Link to work:**  http://pkamath2.github.io/index.html
+
+
+### Day4: 1st July 2017
+**Thoughts:** Have been meaning to try SVG & D3. Initial trials.
+
+**Today's progress:**  Created a bar chart to show how many hours in a day I code! Also some pretty looking bubbles.  
+
+**Link to work:**  https://pkamath2.github.io/code-gallery/d3-circles.html
