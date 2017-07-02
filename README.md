@@ -32,3 +32,10 @@
 **Today's progress:**  Created a bar chart to show how many hours in a day I code! Also some pretty looking bubbles.  
 
 **Link to work:**  https://pkamath2.github.io/code-gallery/d3-circles.html
+
+
+### Day5: 2nd July 2017
+**Today's progress:**  Connected my domain to github pages. This is currently an iframed solution (I didnt want github pages showing in the browser address bar.
+Definitely needs more work - not sure how child/linked pages will show from my domain.   
+
+**Link to work:**  http://purnimakamath.com
