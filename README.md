@@ -39,3 +39,9 @@
 Definitely needs more work - not sure how child/linked pages will show from my domain.   
 
 **Link to work:**  http://purnimakamath.com
+
+
+### Day6: 3rd July 2017
+**Today's progress:**  Tried SVG+D3 transitions today. I eventually want to build bubbles which move randomly. For now I just have one bubble whizzing past on the screen =)   
+
+**Link to work:**  Not on github pages yet. Can be viewed under the-legends-of-d3 project. File name: d3-moving-circles.html
