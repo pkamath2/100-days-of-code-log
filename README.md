@@ -45,3 +45,10 @@ Definitely needs more work - not sure how child/linked pages will show from my d
 **Today's progress:**  Tried SVG+D3 transitions today. I eventually want to build bubbles which move randomly. For now I just have one bubble whizzing past on the screen =)   
 
 **Link to work:**  Not on github pages yet. Can be viewed under the-legends-of-d3 project. File name: d3-moving-circles.html
+
+
+### Day7: 4th July 2017
+**Today's progress:**  Fascinated by the LOTR project for some time now. Trying to see if I can generate some visualization of my own. Credit to http://lotrproject.com/char/List 
+for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/ for the web scraping tutorial.   
+
+**Link to work:**  https://github.com/pkamath2/the-web-scraper-project/blob/master/lotr/lotr_characters.csv 
