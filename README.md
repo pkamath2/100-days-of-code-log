@@ -52,3 +52,8 @@ Definitely needs more work - not sure how child/linked pages will show from my d
 for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/ for the web scraping tutorial.   
 
 **Link to work:**  https://github.com/pkamath2/the-web-scraper-project/blob/master/lotr/lotr_characters.csv 
+
+### Day7: 6th July 2017
+**Today's progress:**  Was trying to get some visualization on the data I scraped - but digressed into creating this diagram. I can keep staring for long!    
+
+**Link to work:**  Not on github pages yet. Can be viewed under the the-legends-of-d3 project. File Name: d3-voronoi.html or d3-voronoi.gif
