@@ -53,7 +53,12 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 
 **Link to work:**  https://github.com/pkamath2/the-web-scraper-project/blob/master/lotr/lotr_characters.csv 
 
-### Day7: 6th July 2017
+### Day8: 6th July 2017
 **Today's progress:**  Was trying to get some visualization on the data I scraped - but digressed into creating this diagram. I can keep staring for long!    
 
 **Link to work:**  Not on github pages yet. Can be viewed under the the-legends-of-d3 project. File Name: d3-voronoi.html or d3-voronoi.gif
+
+### Day9: 8th July 2017
+**Today's progress:**  I am going to stick to D3 for few days now. Can stop! trying to visualize algorithms starting today. Today's idea was simple - sine+cosine wave representation  on unit circle.   
+
+**Link to work:**  Not on github pages yet. Can be viewed under the the-legends-of-d3 project. File Name: trig-simple.html
