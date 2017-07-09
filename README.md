@@ -62,3 +62,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  I am going to stick to D3 for few days now. Can stop! trying to visualize algorithms starting today. Today's idea was simple - sine+cosine wave representation  on unit circle.   
 
 **Link to work:**  Not on github pages yet. Can be viewed under the the-legends-of-d3 project. File Name: trig-simple.html
+
+
+### Day10: 9th July 2017
+**Today's progress:**  Updated github pages with code galleyr!   
+
+**Link to work:**  https://pkamath2.github.io/ - click on code gallery
