@@ -68,3 +68,8 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  Updated github pages with code galleyr!   
 
 **Link to work:**  https://pkamath2.github.io/ - click on code gallery
+
+### Day11: 14th July 2017
+**Today's progress:**  Accidental art! Wanted to create spirals with Noise. Turns out I created something totally different! Not too bad either.    
+
+**Link to work:**  Not on github pages yet. Can be viewed under the the-legends-of-d3 project. File Name: generative-art-circle.html
