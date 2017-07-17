@@ -83,3 +83,8 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  More generative art. Following the Generative art book by Matt Pearson.
 
 **Link to work:**  Not on github pages yet. Can be viewed under the the-legends-of-d3 project. File Name: generative-cellular-automata-GOL.html and generative-cellular-automata-VichniacVote.html
+
+### Day14: 17th July 2017
+**Today's progress:**  More generative art. Following the Generative art book by Matt Pearson.
+
+**Link to work:**  Updated the cellular automaton to look pretty! Also on Github pages now. File Name: generative-cellular-automata-GOL.html and generative-cellular-automata-VichniacVote.html
