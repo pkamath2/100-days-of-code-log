@@ -88,3 +88,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  More generative art. Following the Generative art book by Matt Pearson.
 
 **Link to work:**  Updated the cellular automaton to look pretty! Also on Github pages now. File Name: generative-cellular-automata-GOL.html and generative-cellular-automata-VichniacVote.html
+
+
+### Day15: 18th July 2017
+**Today's progress:**  My first BLOCK!. Created my first block ever! 
+
+**Link to work:**  https://bl.ocks.org/pkamath2/a1daf4f25ec4a7a14f65245e67261cfb
