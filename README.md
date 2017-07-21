@@ -94,3 +94,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  My first BLOCK!. Created my first block ever! 
 
 **Link to work:**  https://bl.ocks.org/pkamath2/a1daf4f25ec4a7a14f65245e67261cfb
+
+
+### Day16: 21st July 2017
+**Today's progress:**  Moved all my work to Github Gist and Bl.ocks today. Thumbnails on Bl.ocks still dont work. Need to check that out. 
+
+**Link to work:**  https://bl.ocks.org/pkamath2/ 
