@@ -100,3 +100,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  Moved all my work to Github Gist and Bl.ocks today. Thumbnails on Bl.ocks still dont work. Need to check that out. 
 
 **Link to work:**  https://bl.ocks.org/pkamath2/ 
+
+
+### Day17: 22nd July 2017
+**Today's progress:**  Finally got to making Fractals. More generative art based on the book with the same name. 
+
+**Link to work:**  Will get to creating bl.ocks eventually. For now file name: pentagon-fractal.html and pentagon-fractal-noisy.html
