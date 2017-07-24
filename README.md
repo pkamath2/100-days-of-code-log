@@ -106,3 +106,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  Finally got to making Fractals. More generative art based on the book with the same name. 
 
 **Link to work:**  Will get to creating bl.ocks eventually. For now file name: pentagon-fractal.html and pentagon-fractal-noisy.html
+
+
+### Day18: 24th July 2017
+**Today's progress:**  Trying to Visualize PIE. Understood how d3.chords work. Inspired by diagrams at - http://mkweb.bcgsc.ca/pi/resources.mhtml 
+
+**Link to work:**  Work in progress. File name: the-legends-of-d3/chords/pie.html
