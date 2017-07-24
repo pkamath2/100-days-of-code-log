@@ -112,3 +112,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  Trying to Visualize PIE. Understood how d3.chords work. Inspired by diagrams at - http://mkweb.bcgsc.ca/pi/resources.mhtml 
 
 **Link to work:**  Work in progress. File name: the-legends-of-d3/chords/pie.html
+
+
+### Day19: 25th July 2017
+**Today's progress:**  The amazing Pie! Inspired by diagrams at - http://mkweb.bcgsc.ca/pi/resources.mhtml 
+
+**Link to work:**  Need to create bl.ocks and update my profile page. File name: the-legends-of-d3/chords/pie.html
