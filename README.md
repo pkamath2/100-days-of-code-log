@@ -118,3 +118,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  The amazing Pie! Inspired by diagrams at - http://mkweb.bcgsc.ca/pi/resources.mhtml 
 
 **Link to work:**  Need to create bl.ocks and update my profile page. File name: the-legends-of-d3/chords/pie.html
+
+
+### Day20: 28th July 2017
+**Today's progress:**  My first machine learning project! Based on the ML with Python book. 
+
+**Link to work:**  No output yet :) WIP! But exciting! 
