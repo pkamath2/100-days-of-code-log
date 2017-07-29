@@ -124,3 +124,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  My first machine learning project! Based on the ML with Python book. 
 
 **Link to work:**  No output yet :) WIP! But exciting! 
+
+
+### Day21: 29th July 2017
+**Today's progress:**  K Nearest neighbors with scikit-learns iris dataset. Example from the O'Reilly book on ML.  
+
+**Link to work:**  Checkout the Jupyter notebook called ml-iris under the ml-with-python project.
