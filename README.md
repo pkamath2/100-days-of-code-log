@@ -120,13 +120,19 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Link to work:**  Need to create bl.ocks and update my profile page. File name: the-legends-of-d3/chords/pie.html
 
 
-### Day20: 28th July 2017
-**Today's progress:**  My first machine learning project! Based on the ML with Python book. 
+### Day20-21: 27th/28th July 2017
+**Today's progress:**  My first machine learning project! Based on the ML with Python book. Took some serious reading to get started. 
 
 **Link to work:**  No output yet :) WIP! But exciting! 
 
 
-### Day21: 29th July 2017
+### Day22: 29th July 2017
 **Today's progress:**  K Nearest neighbors with scikit-learns iris dataset. Example from the O'Reilly book on ML.  
 
-**Link to work:**  Checkout the Jupyter notebook called ml-iris under the ml-with-python project.
+**Link to work:**  Checkout the Jupyter notebook called ml-iris under the ml-with-python project. 
+
+
+### Day23: 30th July 2017
+**Today's progress:**  More knn classifiers. Now comparing how score changes based on n_neighbors. All examples from the O'Reilly book on ML.  
+
+**Link to work:**  Checkout the Jupyter notebook called synthetic-forge under the ml-with-python project. 
