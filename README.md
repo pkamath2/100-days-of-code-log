@@ -136,3 +136,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  More knn classifiers. Now comparing how score changes based on n_neighbors. All examples from the O'Reilly book on ML.  
 
 **Link to work:**  Checkout the Jupyter notebook called synthetic-forge under the ml-with-python project. 
+
+
+### Day24: 31st July 2017
+**Today's progress:**  More knn classifiers. Different datasets. All examples from the O'Reilly book on ML.  
+
+**Link to work:**  Checkout the Jupyter notebook called boston-housing & breast-cancer under the ml-with-python project. 
