@@ -142,3 +142,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  More knn classifiers. Different datasets. All examples from the O'Reilly book on ML.  
 
 **Link to work:**  Checkout the Jupyter notebook called boston-housing & breast-cancer under the ml-with-python project. 
+
+
+### Day25: 1st August 2017
+**Today's progress:**  Linear Models. Same datasets. All examples from the O'Reilly book on ML.  
+
+**Link to work:**  Checkout the Jupyter notebook from the folder called linear-models under the ml-with-python project. 
