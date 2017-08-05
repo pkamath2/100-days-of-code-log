@@ -160,3 +160,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  Decision trees and multiclass classifiers. All examples from the O'Reilly book on ML.  
 
 **Link to work:**  Checkout the Jupyter notebook from the folder called decision-trees and multiclass classifiers under the ml-with-python project. 
+
+
+### Day28: 4th August 2017
+**Today's progress:**  Random Forest Decision trees and Multilayer Perceptrons. All examples from the O'Reilly book on ML.  
+
+**Link to work:**  Checkout the Jupyter notebook under the ml-with-python project. 
