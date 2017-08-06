@@ -156,13 +156,19 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Link to work:**  Checkout the Jupyter notebook from the folder called linear-models under the ml-with-python project. 
 
 
-### Day27: 3rd August 2017
+### Day27: 4th August 2017
 **Today's progress:**  Decision trees and multiclass classifiers. All examples from the O'Reilly book on ML.  
 
 **Link to work:**  Checkout the Jupyter notebook from the folder called decision-trees and multiclass classifiers under the ml-with-python project. 
 
 
-### Day28: 4th August 2017
+### Day28: 5th August 2017
 **Today's progress:**  Random Forest Decision trees and Multilayer Perceptrons. All examples from the O'Reilly book on ML.  
+
+**Link to work:**  Checkout the Jupyter notebook under the ml-with-python project. 
+
+
+### Day29: 6th August 2017
+**Today's progress:**  Unsupervised learning, scaling data. All examples from the O'Reilly book on ML.  
 
 **Link to work:**  Checkout the Jupyter notebook under the ml-with-python project. 
