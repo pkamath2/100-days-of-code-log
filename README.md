@@ -172,3 +172,10 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 **Today's progress:**  Unsupervised learning, scaling data. All examples from the O'Reilly book on ML.  
 
 **Link to work:**  Checkout the Jupyter notebook under the ml-with-python project. 
+
+
+### Day30: 7th August 2017
+**Today's progress:**  I attended this workshop at Google once on TensorFlow. I was amazed at the style transfer that we could do with ML. Learning TensorFlow starting today.
+Begun with the MNIST tutorial.  
+
+**Link to work:**  Checkout the Jupyter notebook called tensorflow-basiscs under the my-tensorflow project. 
