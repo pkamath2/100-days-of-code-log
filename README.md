@@ -179,3 +179,9 @@ for creating an awesome list. Also to http://blog.kaggle.com/2017/01/31/scraping
 Begun with the MNIST tutorial.  
 
 **Link to work:**  Checkout the Jupyter notebook called tensorflow-basiscs under the my-tensorflow project. 
+ 
+
+### Day31: 8th August 2017
+**Today's progress:**  Working through the TensorFlow tutorial for beginners. http://scq.io/c6OIWebH 
+
+**Link to work:**  Check out the my-tensorflow project. 
