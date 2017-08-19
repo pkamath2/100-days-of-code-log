@@ -185,3 +185,38 @@ Begun with the MNIST tutorial.
 **Today's progress:**  Working through the TensorFlow tutorial for beginners. http://scq.io/c6OIWebH 
 
 **Link to work:**  Check out the my-tensorflow project. 
+
+
+### Day32: 11th August 2017
+**Today's progress:**  Working through the Coursera course on Machine Learning by Andrew Ng 
+
+**Link to work:**  Covered basics of Machine Learning. What is supervised learning.
+
+### Day33: 14th August 2017
+**Today's progress:**  Working through the Coursera course on Machine Learning by Andrew Ng 
+
+**Link to work:**  Covered basics of Logistic Regression for Binary Classification. Basics of Calculus/Derivatives. Did you know - Derivatives are nothing but slope of functions at a given point!
+
+
+### Day34: 15th August 2017
+**Today's progress:**  Working through the Coursera course on Machine Learning by Andrew Ng 
+
+**Link to work:**  Vectorization using Numpy! Prevent all those icky for loops. Learnt the difference between dot product and matrix multiplication. Took slightly long to ponder..
+
+
+### Day35: 16th August 2017
+**Today's progress:**  Working through the Coursera course on Machine Learning by Andrew Ng 
+
+**Link to work:**  Completed the assignments for the first course -week2. Cute cats!
+
+
+### Day36: 17th August 2017
+**Today's progress:**  Working through the Coursera course on Machine Learning by Andrew Ng 
+
+**Link to work:**  Hidden layers in a neural network. Sigmoids for output layers and tanh/relu for hidden. This course is intense :)
+
+
+### Day37: 19th August 2017
+**Today's progress:**  Working through the Coursera course on Machine Learning by Andrew Ng 
+
+**Link to work:**  Assignment for first course - week3. Flower dataset. 
